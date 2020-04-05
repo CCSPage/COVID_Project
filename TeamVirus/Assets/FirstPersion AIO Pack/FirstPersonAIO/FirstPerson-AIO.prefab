@@ -135,6 +135,10 @@ GameObject:
   - component: {fileID: 82712217391461128}
   - component: {fileID: 54587624234064098}
   - component: {fileID: 136239539305442568}
+<<<<<<< HEAD
+=======
+  - component: {fileID: 3062997761705543895}
+>>>>>>> 8ab4843b2eb40ffdfaf0d5b7f90a3ef606080561
   - component: {fileID: 114051214696948948}
   m_Layer: 0
   m_Name: FirstPerson-AIO
@@ -284,6 +288,21 @@ CapsuleCollider:
   m_Height: 2
   m_Direction: 1
   m_Center: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
+=======
+--- !u!114 &3062997761705543895
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1743903104223250}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8fac9a29c3634cfdb003f656a39b346, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+>>>>>>> 8ab4843b2eb40ffdfaf0d5b7f90a3ef606080561
 --- !u!114 &114051214696948948
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -359,6 +378,16 @@ MonoBehaviour:
       m_PostInfinity: 2
       m_RotationOrder: 4
     fovStart: 0
+<<<<<<< HEAD
+=======
+  advanced:
+    gravityMultiplier: 1
+    zeroFrictionMaterial: {fileID: 0}
+    highFrictionMaterial: {fileID: 0}
+    _maxSlopeAngle: 70
+    maxStepHeight: 0.2
+    lastKnownSlopeAngle: 0
+>>>>>>> 8ab4843b2eb40ffdfaf0d5b7f90a3ef606080561
   isCrouching: 0
   fps_Rigidbody: {fileID: 0}
   useHeadbob: 1
@@ -379,6 +408,7 @@ MonoBehaviour:
   fsmode: 1
   dynamicFootstep:
     materialMode: 0
+<<<<<<< HEAD
     woodPhysMat: {fileID: 0}
     metalAndGlassPhysMat: {fileID: 0}
     grassPhysMat: {fileID: 13400000, guid: 48bbde3049f29b247a56af17d2b0381f, type: 2}
@@ -387,6 +417,35 @@ MonoBehaviour:
       type: 2}
     mudPhysMat: {fileID: 0}
     customPhysMat: {fileID: 13400000, guid: 607312263e6edad4293a3fd7bb6602cf, type: 2}
+=======
+    woodPhysMat:
+    - {fileID: 0}
+    metalAndGlassPhysMat:
+    - {fileID: 0}
+    grassPhysMat:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    dirtAndGravelPhysMat:
+    - {fileID: 0}
+    rockAndConcretePhysMat:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    mudPhysMat:
+    - {fileID: 0}
+    customPhysMat:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    woodMat: []
+    metalAndGlassMat: []
+    grassMat: []
+    dirtAndGravelMat: []
+    rockAndConcreteMat: []
+    mudMat: []
+    customMat: []
+>>>>>>> 8ab4843b2eb40ffdfaf0d5b7f90a3ef606080561
     currentClipSet: []
     woodClipSet: []
     metalAndGlassClipSet: []

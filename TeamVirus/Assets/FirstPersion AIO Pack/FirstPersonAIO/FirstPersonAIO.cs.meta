@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 fileFormatVersion: 2
 guid: bf1a5ad4f9ffb154ca7813fdad11017a
 timeCreated: 1505782333
@@ -10,3 +11,17 @@ MonoImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+=======
+fileFormatVersion: 2
+guid: bf1a5ad4f9ffb154ca7813fdad11017a
+timeCreated: 1505782333
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+>>>>>>> 8ab4843b2eb40ffdfaf0d5b7f90a3ef606080561
