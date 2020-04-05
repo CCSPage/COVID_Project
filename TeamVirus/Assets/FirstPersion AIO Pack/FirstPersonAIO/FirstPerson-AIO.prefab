@@ -135,7 +135,7 @@ GameObject:
   - component: {fileID: 82712217391461128}
   - component: {fileID: 54587624234064098}
   - component: {fileID: 136239539305442568}
-  - component: {fileID: 7326453166744635939}
+  - component: {fileID: 3062997761705543895}
   - component: {fileID: 114051214696948948}
   m_Layer: 0
   m_Name: FirstPerson-AIO
@@ -285,7 +285,7 @@ CapsuleCollider:
   m_Height: 2
   m_Direction: 1
   m_Center: {x: 0, y: 0, z: 0}
---- !u!114 &7326453166744635939
+--- !u!114 &3062997761705543895
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
